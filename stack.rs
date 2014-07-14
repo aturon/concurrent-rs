@@ -1,3 +1,7 @@
+// ****************************************************************
+// * WARNING: This is an early work in progress!
+// ****************************************************************
+
 // Treiber's stack with hazard pointers
 
 // FIXME: shouldn't core::ptr::RawPtr::to_option be as_option?
